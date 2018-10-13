@@ -1,6 +1,7 @@
 {
   "name": "yurcrm/yurcrm-client",
   "description": "API client for yurcrm.ru service",
+  "minimum-stability":"stable",
   "require": {
     "php": "^5.4 || ^7.0"
   }
