@@ -1,5 +1,5 @@
 {
-  "name": "YurCRM/yurcrm-client",
+  "name": "yurcrm/yurcrm-client",
   "description": "API client for yurcrm.ru service",
   "require": {
     "php": "^5.4 || ^7.0"
