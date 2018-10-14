@@ -4,7 +4,6 @@
   "version": "0.0.1",
   "require": {
     "php": "^5.5 || ^7.0",
-    "guzzlehttp/guzzle": "~6.0"
   },
   "autoload": {
     "psr-0": {
