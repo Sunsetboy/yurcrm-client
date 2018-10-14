@@ -3,6 +3,12 @@
   "description": "API client for yurcrm.ru service",
   "version": "0.0.1",
   "require": {
-    "php": "^5.4 || ^7.0"
+    "php": "^5.5 || ^7.0",
+    "guzzlehttp/guzzle": "~6.0"
+  },
+  "autoload": {
+    "psr-0": {
+      "YurcrmClient\\": "src/"
+    }
   }
 }
