@@ -19,7 +19,7 @@ $yurcrmClient = new YurcrmClient('contact/create', 'POST', 'ваш токен');
 $yurcrmClient->setData([
     'contact[name]' => "Александр Пушкин",
     'contact[sourceId]' => ID_источника,
-    'contact[phone]' => 79031112233,
+    'contact[phone]' => '79031112233',
     'contact[question]' => "Суд с Дантесом",
     'contact[email]' => "alex@pushkin.ru",
     'contact[townId]' => 598,
