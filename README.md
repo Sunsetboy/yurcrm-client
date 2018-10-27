@@ -22,7 +22,7 @@ $yurcrmClient->setData([
     'contact[phone]' => 79031112233,
     'contact[question]' => "Суд с Дантесом",
     'contact[email]' => "alex@pushkin.ru",
-    'contact[townId]' => '598',
+    'contact[townId]' => 598,
     'contact[externalId]' => 781827,
 ]);
 
