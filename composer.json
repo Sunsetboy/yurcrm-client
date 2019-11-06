@@ -1,7 +1,7 @@
 {
   "name": "yurcrm/yurcrm-client",
   "description": "API client for yurcrm.ru service",
-  "version": "1.0.2",
+  "version": "2.0.1",
   "authors": [
     {
       "name": "Michael Krutikov",
