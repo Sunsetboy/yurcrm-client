@@ -1,7 +1,15 @@
 {
   "name": "yurcrm/yurcrm-client",
   "description": "API client for yurcrm.ru service",
-  "version": "0.0.1",
+  "version": "1.0.2",
+  "authors": [
+    {
+      "name": "Michael Krutikov",
+      "email": "misha.sunsetboy@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "license": "MIT",
   "require": {
     "php": "^5.5 || ^7.0"
   },
